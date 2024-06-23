@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm passionate about coding and always eager to le
 - 👀 I’m interested in web development, machine learning, and open source projects.
 - 🌱 I’m currently learning advanced JavaScript, React, and exploring the depths of Python for data science.
 - 💞️ I’m looking to collaborate on innovative web applications, AI-driven projects, and anything that challenges my skills.
-- 📫 How to reach me: You can connect with me on [LinkedIn](http://linkedin.com/in/victorlarco/) or email me at victorlarcob@gmail.com.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an avid chess player and love to solve complex puzzles in my free time.
 
@@ -18,7 +17,6 @@ Feel free to explore my repositories and don't hesitate to reach out if you'd li
 - 👀 Estoy interesado en el desarrollo web, el aprendizaje automático y los proyectos de código abierto.
 - 🌱 Actualmente estoy aprendiendo JavaScript avanzado, React y explorando las profundidades de Python para ciencia de datos.
 - 💞️ Estoy buscando colaborar en aplicaciones web innovadoras, proyectos impulsados por IA y cualquier cosa que desafíe mis habilidades.
-- 📫 Cómo contactarme: Puedes conectarte conmigo en [LinkedIn](http://linkedin.com/in/victorlarco/) o enviarme un correo electrónico a victorlarcob@gmail.com.
 - 😄 Pronombres: Él
 - ⚡ Dato curioso: Soy un ávido jugador de ajedrez y me encanta resolver rompecabezas complejos en mi tiempo libre.
 
